@@ -1,2 +1,2 @@
 # QR-code
-Сканер QR code
+ QR code с приветствием )
